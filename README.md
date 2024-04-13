@@ -2,7 +2,7 @@
 
 ![Banner](GitHubBanner.png)
 
-Welcome to the Guild Tracker repository! This project is a C# application designed as a learning prototype.
+Welcome to the Guild Tracker repository! This project is a C# application designed as a learning prototype. Working with Guild Wars 2 API.
 
 ## Overview
 
