@@ -8,6 +8,7 @@ Welcome to the Guild Tracker repository! This project is a C# application design
 
 Combinaison of C# and Node.Js.
 Was build for a specific task. Is not made to work on other Guild without modifications.
+Made to run on Azure B2.
 
 ## Features
 
