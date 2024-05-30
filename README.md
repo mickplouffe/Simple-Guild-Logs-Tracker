@@ -22,7 +22,7 @@ Runs on Windows Console.
 ## Learning experience
 
 Started as a C# console application.
-Everything was local. Then converted to Hosted SQL database to interface with the web dashboard.
+Everything was local. Then converted to Hosted SQL database to interface with the web dashboard. The dashbord is connecting to the SQL Database and is not related to this application directly anymore.
 
 ## License
 
