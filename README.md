@@ -22,6 +22,7 @@ Runs on Windows Console.
 ## Learning experience
 
 Started as a C# console application.
+Everything was local. Then converted to Hosted SQL database to interface with the web dashboard.
 
 ## License
 
@@ -29,5 +30,5 @@ This project is released under the MIT License, making it available for educatio
 
 
 ## Skills used
-Tags: @tag:CS, @tag:API, @tag:Utility
+Tags: @tag:CS, @tag:API, @tag:Utility, @tag:SQL
 
